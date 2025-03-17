@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cappr/Machine%20Learning%20CS616/mlruns/609757360551621908/e788fa637df6419a878bb4f6a17250db/artifacts
+end_time: 1741908183551
+entry_point_name: ''
+experiment_id: '609757360551621908'
+lifecycle_stage: active
+run_id: e788fa637df6419a878bb4f6a17250db
+run_name: fold_1
+run_uuid: e788fa637df6419a878bb4f6a17250db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741908163651
+status: 3
+tags: []
+user_id: cappr
