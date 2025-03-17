@@ -12,7 +12,4 @@ Welcome to my Master's project portfolio! This repository showcases my work from
 - **[Big Data Analysis](./Big%20data%20Analysis)**: Large-scale datasets and analysis scripts for real-world data.
 - **[Machine Learning](./Machine%20Learning)**: Predictive models, fraud detection, and customer segmentation projects.
 
-## Getting Started
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/AbhisheKDhanani11/Masters-Coding-Projects.git
+
