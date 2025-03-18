@@ -1,19 +1,11 @@
 ## Big Data Analysis Projects
 
-This folder houses my Big Data Analysis projects, featuring large-scale data processing and analysis of real-world datasets.
+This folder contains my Big Data Analysis projects from my Master's program, focusing on large-scale data processing and real-world data analysis using R.
 
 ### Contents
-- **Datasets**: Extensive collections of real-world data, including housing, traffic, health, and economic datasets.
-- **Analysis Scripts**: Code for cleaning, processing, and analyzing large datasets, along with some duplicate data for specific analyses.
+- **Datasets**: Extensive collections of data covering areas such as housing, traffic, health, and economic trends.
+- **Analysis Scripts**: R scripts for processing, cleaning, and analyzing large datasets, with some duplicate data for specific analyses.
 
 ### Purpose
 - **Data Processing**: Cleaning and transforming large datasets for analysis.
-- **Insights**: Extracting trends and patterns, such as housing market trends or public health impacts.
-
-### Usage
-1. **Analysis**: Use Python scripts to load and analyze datasets, exploring trends and insights.
-2. **Extract Archives**: Some data may be in compressed formats; extract them using tools like `tar`.
-
-### Notes
-- Some data appears in multiple subfolders—consider consolidating for clarity.
-- Large files use Git LFS (`git lfs pull`).
+- **Insights**: Extracting trends and patterns, such as market trends or public health impacts.
