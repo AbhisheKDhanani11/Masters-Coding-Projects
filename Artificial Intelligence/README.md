@@ -8,7 +8,7 @@ This folder contains my Artificial Intelligence projects from my Master's progra
 
 ### Purpose
 - **NLP Analysis**: Experiments with text classification or generation tasks.
-- **Deep Learning**: Training and fine-tuning large models, likely using PyTorch or TensorFlow.
+- **Deep Learning**: Training and fine-tuning large models using PyTorch.
 
 ### Usage
 1. **Requirements**: Install PyTorch (`pip install torch`) and other dependencies as needed.
