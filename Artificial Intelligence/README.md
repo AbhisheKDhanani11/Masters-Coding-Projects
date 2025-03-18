@@ -1,6 +1,3 @@
-
----
-
 ### Artificial Intelligence Folder README.md
 ```markdown
 # Artificial Intelligence Projects
