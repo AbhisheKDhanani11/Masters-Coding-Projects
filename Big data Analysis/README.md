@@ -11,9 +11,8 @@ This folder houses my Big Data Analysis projects, featuring large-scale data pro
 - **Insights**: Extracting trends and patterns, such as housing market trends or public health impacts.
 
 ### Usage
-1. **Requirements**: Python, Pandas (`pip install pandas`), and possibly Spark for large-scale processing.
-2. **Analysis**: Use Python scripts to load and analyze datasets, exploring trends and insights.
-3. **Extract Archives**: Some data may be in compressed formats; extract them using tools like `tar`.
+1. **Analysis**: Use Python scripts to load and analyze datasets, exploring trends and insights.
+2. **Extract Archives**: Some data may be in compressed formats; extract them using tools like `tar`.
 
 ### Notes
 - Some data appears in multiple subfolders—consider consolidating for clarity.
