@@ -8,7 +8,6 @@ This folder contains my introductory Python projects from my Master's program, f
 
 ### Purpose
 - **Basic Programming**: Exploring core Python concepts like loops, conditionals, functions, and classes.
-- **Practical Applications**: Solving real-world problems, such as calculating financial totals, processing data, and simulating processes.
 
 ### Usage
 1. **Requirements**: Install Python 3.x (`python --version` to check) and a code editor like VS Code or IDLE.
