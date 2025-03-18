@@ -1,10 +1,8 @@
-### Artificial Intelligence Folder README.md
-```markdown
-# Artificial Intelligence Projects
+## Artificial Intelligence Projects
 
-This folder contains my Artificial Intelligence projects from my Master's program, focusing on natural language processing (NLP) and deep learning models.
+This folder contains my Artificial Intelligence projects from my Master's program, focusing on natural language processing (NLP).
 
-## Contents
+### Contents
 - **Dataset/archive/**:
   - `Fake.csv` (59.88 MB): Dataset of fake news articles for NLP tasks.
   - `True.csv` (51.08 MB): Dataset of true news articles for comparison.
@@ -16,13 +14,7 @@ This folder contains my Artificial Intelligence projects from my Master's progra
   - `checkpoint-625/`:
     - Same structure as above, likely an earlier training iteration.
 
-## Purpose
+### Purpose
 - **NLP Analysis**: Experiments with fake/true news classification or text generation.
 - **Deep Learning**: Training and fine-tuning large models, possibly using PyTorch or TensorFlow.
 
-## Usage
-1. **Requirements**: Install PyTorch (`pip install torch`) and other dependencies as needed.
-2. **Load Models**:
-   ```python
-   import torch
-   model = torch.load("checkpoint-3929/model.safetensors")
