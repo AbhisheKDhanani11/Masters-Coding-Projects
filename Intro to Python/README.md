@@ -10,7 +10,7 @@ This folder contains my introductory Python projects from my Master's program, f
 - **Basic Programming**: Exploring core Python concepts like loops, conditionals, functions, and classes.
 
 ### Usage
-1. **Requirements**: Install Python 3.x (`python --version` to check) and a code editor like VS Code or IDLE.
+1. **Requirements**: Install Python and a code editor like VS Code or IDLE.
 2. **Run Programs**: Execute Python scripts using a terminal or IDE (`python script.py`).
 3. **Input Files**: Some programs require text files for input; ensure these files are in the same directory as the scripts.
 
