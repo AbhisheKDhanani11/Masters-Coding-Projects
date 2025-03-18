@@ -1,5 +1,3 @@
-### Artificial Intelligence Folder README.md
-
 ## Artificial Intelligence Projects
 
 This folder contains my Artificial Intelligence projects from my Master's program, focusing on natural language processing (NLP) and deep learning.
