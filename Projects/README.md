@@ -59,8 +59,4 @@ Key dependencies include:
    - MailCast: `python mailcast.py`
    - Or open Jupyter notebooks (e.g., `rag_legal_summarizer.ipynb`) in Jupyter Notebook.
 
-## Notes
 
-- Configure API keys for OpenAI, Google Gmail API, and Google Gemini in environment variables or a configuration file.
-- Large files (e.g., audio outputs, PDFs) are tracked using Git LFS to handle size limits.
-- Clear Jupyter notebook outputs before committing to reduce file size.
